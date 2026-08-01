@@ -24,11 +24,11 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hi%20There,%20I'm%20Ponvigneshwaran&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=CSBS%20Student%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=18&descColor=B4B4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Hi%20There,%20I'm%20Ponvigneshwaran&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=58&descSize=18&descColor=B4B4FF" width="100%"/>
 
 <!-- ===================== ANIMATED TYPING BANNER ===================== -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80;CSBS+Student+%7C+Aspiring+Software+Engineer;Full+Stack+Developer+%7C+DSA+Enthusiast;Turning+%E2%98%95+into+%3C%2Fcode%3E;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Universe+%F0%9F%9A%80;CSE+Student+%7C+Aspiring+Software+Engineer;Full+Stack+Developer+%7C+DSA+Enthusiast;Turning+%E2%98%95+into+%3C%2Fcode%3E;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,7 +73,7 @@
 ```yaml
 whoami:
   name: "Ponvigneshwaran"
-  role: "CSBS Student | Full Stack Developer | Problem Solver"
+  role: "CSE Student | Full Stack Developer | Problem Solver"
   location: "India 🇮🇳"
   currently_focused_on:
     - Data Structures & Algorithms

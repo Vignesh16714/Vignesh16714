@@ -157,10 +157,44 @@ whoami:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-<!-- ===================== LEETCODE STATS ===================== -->
-## 🧩 LeetCode Journey
+<!-- ===================== CODING PROGRESS ===================== -->
+## 🧩 Coding Progress
 
 <div align="center">
+
+<!-- Codolio: all-in-one aggregator across every platform below -->
+<a href="https://codolio.com/profile/akKDlidl" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-All%20Platforms%20In%20One%20Place-6C3EF4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<p><i>👆 One dashboard tracking my progress across every platform below — click to see it all in one place.</i></p>
+
+<br/>
+
+### Platforms I'm Active On
+
+<a href="https://leetcode.com/u/im_vignesh16/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.geeksforgeeks.org/profile/ponvigipbc" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/pvw_16" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/Vignesh161006" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://www.interviewbit.com/profile/vignesh-m_403/" target="_blank">
+  <img src="https://img.shields.io/badge/InterviewBit-FF6F3C?style=for-the-badge&logo=interviewbit&logoColor=white"/>
+</a>
+<a href="https://www.naukri.com/code360/profile/MadJack" target="_blank">
+  <img src="https://img.shields.io/badge/Naukri%20Code360-4A5FC1?style=for-the-badge&logo=naukri&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### LeetCode Stats
 
 <img src="https://leetcode-stats-card.vercel.app/api?username=im_vignesh16&theme=dark&background=0D1117&border=00F5D4&text_color=c9d1d9" alt="LeetCode Stats"/>
 
@@ -172,7 +206,7 @@ whoami:
 
 <br/><br/>
 
-<!-- Dynamic LeetCode badge (leetcode.card generator) -->
+<!-- Dynamic LeetCode heatmap card -->
 <img src="https://leetcard.jacoblin.cool/im_vignesh16?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
 
 </div>

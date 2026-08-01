@@ -65,7 +65,10 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 🧠 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/assets/demo.svg" alt="coding gif" />
+<!-- Decorative gif removed (old hotlink was broken/removed by the source).
+     Want one back? Download any coding gif, save it inside this repo as
+     assets/coding.gif, then use:
+     <img align="right" width="340" src="assets/coding.gif" alt="coding gif" /> -->
 
 ```yaml
 whoami:
@@ -135,7 +138,7 @@ whoami:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vignesh16714&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=B4B4FF&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh16714&theme=radical&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=B4B4FF&currStreakLabel=00F5D4" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Vignesh16714&theme=radical&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=B4B4FF&currStreakLabel=00F5D4" />
 
 <br/>
 

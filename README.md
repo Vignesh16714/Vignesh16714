@@ -162,12 +162,39 @@ whoami:
 
 <div align="center">
 
-<!-- Codolio: all-in-one aggregator across every platform below -->
+<!--
+  UNIFIED STATS CARD — powered by dsastats.vercel.app, which pulls live data
+  directly from your Codolio profile (aggregating LeetCode, GeeksforGeeks,
+  CodeChef, Codeforces, InterviewBit, HackerRank, etc. into one card).
+  Your Codolio username (from codolio.com/profile/akKDlidl) is: akKDlidl
+  This card updates automatically whenever your Codolio profile updates —
+  no manual edits needed.
+-->
+<!--
+  UNIFIED STATS — using your actual downloaded Codolio cards (devCard.png and
+  profileCard.png), hosted inside this repo's root so they load reliably and
+  don't depend on any third-party server being up.
+
+  NOTE: These are static snapshots, not live-updating. Whenever your Codolio
+  stats change and you want a fresh card, go back to your Codolio profile,
+  click "Get your Codolio Card", download the new PNGs, and re-upload them to
+  this repo with the SAME filenames (devCard.png / profileCard.png) to
+  overwrite them — no need to edit this README again.
+-->
+<table>
+<tr>
+<td align="center"><img src="profileCard.png" width="320" alt="Codolio Profile Card"/></td>
+<td align="center"><img src="devCard.png" width="320" alt="Codolio Dev Card"/></td>
+</tr>
+</table>
+
+<br/>
+
 <a href="https://codolio.com/profile/akKDlidl" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-All%20Platforms%20In%20One%20Place-6C3EF4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codolio-Full%20Dashboard-6C3EF4?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
-<p><i>👆 One dashboard tracking my progress across every platform below — click to see it all in one place.</i></p>
+<p><i>👆 Live combined stats across every platform I code on — click for the full interactive dashboard.</i></p>
 
 <br/>
 
@@ -194,20 +221,19 @@ whoami:
 
 <br/><br/>
 
-### LeetCode Stats
+<details>
+<summary><b>📌 LeetCode Detail Card (click to expand)</b></summary>
+
+<br/>
 
 <img src="https://leetcode-stats-card.vercel.app/api?username=im_vignesh16&theme=dark&background=0D1117&border=00F5D4&text_color=c9d1d9" alt="LeetCode Stats"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Total%20Solved-450%2B-00F5D4?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Contest%20Rating-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Active%20Days-Consistent-B4B4FF?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<br/><br/>
-
 <!-- Dynamic LeetCode heatmap card -->
 <img src="https://leetcard.jacoblin.cool/im_vignesh16?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap"/>
+
+</details>
 
 </div>
 
